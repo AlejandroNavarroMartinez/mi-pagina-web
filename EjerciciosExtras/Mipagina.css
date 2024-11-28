@@ -1,0 +1,85 @@
+body {
+    background-image:url(entornobdo.jpg);
+    background-size:cover;
+    color:black;
+}
+.estilo {
+    Color:black;
+    font-weight:bold;
+    font-family:monospace;
+    text-decoration:underline;
+    text-align:center;
+    Font-size:50px;
+}
+h1:first-letter {
+    text-transform:capitalize;
+}
+a {
+    font-size:20px;
+    font-family:sans-serif;
+    margin-left:15%;  
+}
+a:hover {
+    color:green;
+}
+a:active {
+    color:blue;
+}
+a:visited {
+    color:red;
+}
+a:link {
+    color:white;
+}
+h1:hover {
+    color:green;
+}
+img {
+    width:300px;
+    border-style:groove;
+}
+p {
+    color:white;
+    font-family:georgia;
+    font-style:italic;
+}
+iframe {
+    border-width:20%;
+}
+.right-image {
+    margin-right: 150px;
+    width: 300px;
+}
+.parrafo-derecha {
+    color:white;
+    font-family:georgia;
+    font-style:italic;
+    text-align:right;
+    margin-right:10%;
+}
+.parrafo {
+    margin-left:17%;
+}
+
+table {
+    border-spacing:5%;
+    vertical-align:middle;
+    margin-left: 9%;
+}
+h2 {
+    text-align:center;
+    color:white;
+    text-transform:capitalize;
+}
+h2:hover {
+    color:yellow;
+}
+.parrafo_justificado {
+    text-align:justify;
+    margin-left:5%;
+    margin-right:5%;
+}
+span {
+    color:black;
+    font-weight:bold;
+}
